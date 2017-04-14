@@ -91,7 +91,7 @@ class Login extends Component {
             <TouchableWithoutFeedback onPress={() => {DismissKeyboard()}}>
                 <View style={CommonStyle.container}>
                     <View style={styles.formGroup}>
-                        <Text style={styles.title}>Firebase Sample</Text>
+                        <Text style={styles.title}>ParkSafe</Text>
                         <Sae
                             label={"Email Address"}
                             iconClass={FontAwesomeIcon}

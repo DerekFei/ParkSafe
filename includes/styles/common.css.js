@@ -2,12 +2,12 @@ const Common = {
 
     container: {
         flex: 1,
-        backgroundColor: "#8781bd",
+        backgroundColor: "grey",
         paddingTop: 50
     },
 
     buttons: {
-        backgroundColor: "whitesmoke"
+        backgroundColor: "#428ff4",
     }
 
 };
